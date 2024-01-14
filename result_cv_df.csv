@@ -1,0 +1,25 @@
+,Algorithm,Performance,performance_set,Ensemble Model
+23,Neural Network,1.0,CV_Train,0
+16,SVM,1.0,CV_Train,0
+18,Random Forest,1.0,CV_Train,1
+17,Decision Tree,1.0,CV_Train,0
+21,AdaBoosting,1.0,CV_Train,1
+22,XGBoosting,0.9658651919358279,CV_Train,1
+19,Bagging,0.9559666648306278,CV_Train,1
+13,Logistic Regression,0.9026966128806079,CV_Train,0
+20,Gradient Boosting,0.8931565961449035,CV_Train,1
+11,Neural Network,0.822102529143008,CV_Test,0
+14,K-Nearest Neighbors,0.8137477657249231,CV_Train,0
+10,XGBoosting,0.7726914097681148,CV_Test,1
+4,SVM,0.7698263977363048,CV_Test,0
+1,Logistic Regression,0.7594589729571617,CV_Test,0
+2,K-Nearest Neighbors,0.74920070713109,CV_Test,0
+8,Gradient Boosting,0.7462241644475067,CV_Test,1
+6,Random Forest,0.7437969436709396,CV_Test,1
+15,Naive Bayes,0.6942484653394043,CV_Train,0
+7,Bagging,0.6841310247988466,CV_Test,1
+9,AdaBoosting,0.64585947016251,CV_Test,1
+5,Decision Tree,0.6453078373695794,CV_Test,0
+3,Naive Bayes,0.5681047877299256,CV_Test,0
+0,Majority,0.2591817274601965,CV_Test,0
+12,Majority,0.2591816527171419,CV_Train,0
